@@ -1,2 +1,2 @@
-# analise_jogos
+# Análise de vendas de jogos de videogame nos últimos anos
 Projeto desenvolvido a fim de analisar vendas de jogos de videogame nos últimos anos. A análise busca responder questões como: os 10 jogos mais vendidos e suas plataformas, maiores vendas por distribuidora, a influência da nota de um jogo nas vendas, notas por gênero, entre outras. Dataset obtido no Kaggle e trabalhado no Jupyter Notebook.
